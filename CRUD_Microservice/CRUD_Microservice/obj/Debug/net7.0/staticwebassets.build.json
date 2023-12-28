@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Z7XT4/yrM5+0asKazhTBg3cH5P7mzhpQrZWDH6mvMfI=",
+  "Source": "CRUD_Microservice",
+  "BasePath": "_content/CRUD_Microservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

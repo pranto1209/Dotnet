@@ -1,0 +1,9 @@
+"ConnectionStrings": {
+  "DefaultConnection": "Server=MASUM-PRANTO\\SQLEXPRESS;Database=CrudDB;Trusted_Connection=True;TrustServerCertificate=True;"
+}
+
+"ConnectionStrings": {
+  "DefaultConnection": "Server=MASUM-PRANTO\\SQLEXPRESS;Database=CrudDB;Integrated Security=True;TrustServerCertificate=True;"
+}
+
+
